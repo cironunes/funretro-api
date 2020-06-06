@@ -13,7 +13,7 @@
     "typescript": "3.4.5"
   },
   "dependencies": {
-    "apollo-server-express": "^2.5.0",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "express": "^4.17.0",
